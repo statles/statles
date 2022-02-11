@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @statles
 - 👀 I’m interested in Learning to code
-- 🌱 I’m currently learning VBA
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on school work
 - 📫 How to reach me ...
 
