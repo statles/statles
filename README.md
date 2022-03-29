@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @statles
-- 👀 I’m interested in Learning to code
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on school work
-- 📫 How to reach me ...
+- 👀 I’m interested in finding the best way to visualize data
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to become a better coder
 
 <!---
 statles/statles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
