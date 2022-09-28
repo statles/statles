@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @statles
 - 👀 I’m interested in finding the best way to visualize data
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to become a better coder
 
 <!---
