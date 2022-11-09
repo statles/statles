@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @statles
-- 👀 I’m interested in finding the best way to visualize data
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to become a better coder
+- 👀 I’m interested in bioinformatics and data visualization
+- 🌱 I’m currently learning python, R
 
 <!---
 statles/statles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
